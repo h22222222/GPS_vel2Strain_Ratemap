@@ -22,10 +22,12 @@ Some results are as follows:
 
 ![strain and rotation results for Mongolia](https://user-images.githubusercontent.com/33387040/167244244-a158020d-36e2-4dbb-a16f-25b4e3e5aaef.png)
 
-## Contributing
+## Contact
 If you're using this library or have questions, let me know! I'm happy to work together on the code and its applications.
 
 ## References
 > Tape, C., Musé, P., Simons, M., Dong, D., & Webb, F. (2009). Multiscale estimation of GPS velocity fields. Geophysical Journal International, 179(2), 945-971. 
+> 
 > 苏小宁,孟国杰,王振. 基于多尺度球面小波解算GPS应变场的方法及应用[J]. 地球物理学报,2016,59(5):1585-1595. DOI:10.6038/cjg20160504．
+> 
 > 高涵,张明,秦姗兰,等. 基于多尺度球面小波分析云南地区应变特征[J]. 大地测量与地球动力学,2018,38(12):1232-1237. DOI:10.14075/j.jgg.2018.12.004.
